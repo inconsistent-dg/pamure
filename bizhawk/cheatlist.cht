@@ -1,0 +1,10 @@
+10E5D0	0006	N	MainRAM	0	Infinite Health	w	h	0	None	
+10E5CA	0009	N	MainRAM	0	Infinite Lives	w	h	0	None	
+0BF074	000F	N	MainRAM	0	Invincibility	w	h	0	None	
+0BEE22	20	N	MainRAM	0	Fly High	b	h	0	None	
+0BF07E	000F	N	MainRAM	0	Fly High	w	h	0	None	
+000000	FF	N	MainRAM	0	Fly High	b	h	0	None	
+0BE328	0001	N	MainRAM	0	Infinite Keys	w	h	0	None	
+0BF072	0000	N	MainRAM	0	Hold Jump To Fly	w	h	0	None	
+10E5CE	0006	N	MainRAM	0	Have all 6 Visions	w	h	0	None	
+0BEB3C	0000	N	MainRAM	0	Disable Fall Death Timer	w	h	0	None	

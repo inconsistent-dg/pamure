@@ -1,0 +1,63 @@
+knockback, can't do anything in this state
+	when applied in the air, he'll act like holding an enemy
+	
+taking damage 655360, doesn't get knockback/damage but can't move
+	can wind bullet and jump
+taking damage 655361, takes damage+knockback to the right
+	can't do anything in this state other than wind bullet
+	grabbing an enemy works, but can'r double jump
+taking damage 655362, takes damage+knockback to the left
+	same as 655361
+taking damage 655363, same as 655361
+taking damage 655364, no damage only knockback to the right
+	can fly infinitely with this one
+	can't do anything in this state
+taking damage 655365, same as 655361
+taking damage 655366, same as 655361
+taking damage 655367, same as 655361
+taking damage 655368, no damage only knockback to the left
+	same as 655364
+taking damage 655369, same as 655361
+taking damage 655370, same as 655362
+	there seems to be some sort of pattern with the taking damage, as there's more values after this
+
+taking damage 458750, damage+knockback up, looks left but no movement
+	can't move in this state
+taking damage 458751, same as 458750
+taking damage 458752, same as 458750
+taking damage 458753, damage+knockback up, looks left but no movement
+	can move in this state
+taking damage 458754, damage+knockback up, looks right but no movement
+	can move in this state, basically the same as idle with damage
+taking damage 458755, same as 458753
+taking damage 458756, no damage only knockback, looks left
+	doesn't take knockback if not on the ground
+taking damage 458757, same as 458753
+taking damage 458758, same as 458753
+taking damage 458759, same as 458753
+taking damage 458760, no damage only knockback, looks right
+
+taking damage 1769470, same as below
+taking damage 1769471, damage and knockback up, looks left
+	klonoa falls down in this state. does the "holding enemy" arms
+taking damage 1769473, damage and knockback up, looks left
+	can move in this state
+	klonoa doesn't fall down, so he'll keep moving up
+taking damage 1769474, same as above but looks right
+taking damage 1769475, same as 1769473
+taking damage 1769476, no damage only knockback, freaks out when holding an enemy
+taking damage 1769477, same as 1769473
+taking damage 1769478, same as 1769473
+taking damage 1769479, same as 1769473
+taking damage 1769480, probably same as 1769476
+
+taking damage 1310721, damage+knockback, looks left
+	can flutter infinitely
+taking damage 1310722, same as above but looks right
+taking damage 1310723, same as 1310721
+taking damage 1310724, no damage only knockback, looks left
+	only knockback on the ground
+taking damage 1310725, same as 1310721
+taking damage 1310726, same as above
+taking damage 1310727, same as above
+taking damage 1310728, same as 1310724 but looks right
