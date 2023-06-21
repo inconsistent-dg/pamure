@@ -1,0 +1,1 @@
+The SaveRAM should already load with the bk2, but if it doesn't it's inside the SaveRAM.7z
